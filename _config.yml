@@ -6,3 +6,6 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Iván Fernández: https://ibanfr.github.io/
+
+plugins:
+  - jekyll-linkpreview
